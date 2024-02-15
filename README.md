@@ -26,6 +26,10 @@ public RestTemplate restTemplate(RestTemplateBuilder builder) {
         return restTemplate;
     }
 
+# Erro Certificado Git
+
+git config --global http.sslVerify false
+
 
 # Comandos Git
 
@@ -33,7 +37,5 @@ public RestTemplate restTemplate(RestTemplateBuilder builder) {
 [Fonte](https://www.instagram.com/p/CcidY3WOmPH/?igshid=YmMyMTA2M2Y%3D)
 [Instagram da fonte](https://www.instagram.com/tech.juliana/)
 
-# Erro Certificado Git
 
-git config --global http.sslVerify false
 
