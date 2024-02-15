@@ -32,3 +32,8 @@ public RestTemplate restTemplate(RestTemplateBuilder builder) {
 ![Comandos GIT](https://github.com/luthsanches/Help/blob/main/tech.juliana_278888544_3288556841372113_4377316700880951735_n.webp)
 [Fonte](https://www.instagram.com/p/CcidY3WOmPH/?igshid=YmMyMTA2M2Y%3D)
 [Instagram da fonte](https://www.instagram.com/tech.juliana/)
+
+# Erro Certificado Git
+
+git config --global http.sslVerify false
+
